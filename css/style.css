@@ -6,6 +6,7 @@ h1 {
     font-size: 50px;
     font-style: italic;
     font-weight: 500;
+    
     text-align-last: center;
     text-decoration-line: underline;
 }
@@ -23,4 +24,18 @@ ul {
 
 .menu-item{
     background: red;
+}
+
+span.big-letter{
+    font-size:100px;
+}
+
+h3 {
+font-size: 30px;
+color: orangered;
+
+}
+
+h4 {
+    color: olive;
 }
