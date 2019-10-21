@@ -40,3 +40,16 @@ text-decoration-line: underline;
 h4 {
     color: olive;
 }
+
+
+.box {
+    width: 450px;
+   
+    padding: 20px;
+    
+    background: forestgreen;
+}
+
+img{
+    border: 3px dotted black;
+}
