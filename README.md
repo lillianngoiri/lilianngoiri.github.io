@@ -1,5 +1,7 @@
 # PORTFOLIO
 #### The portfolio contains my picture as my identity, a brief description of about me particularly on my education background, job experience, my reasons for choosing programing classes and my active links.
+
+The project is live on github pages at https://lillianngoiri.github.io/lilianngoiri.github.io/
   
 
 The MIT License
